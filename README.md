@@ -1,0 +1,2 @@
+# Multi-Class-Image-Classification-using-CNN-and-ANN
+As a part of my third semester deep learning project assignment, I collected 100 random images containing 25 images of car and bike each and 50 other random images of various categories. Then I created two deep learning models using Convolutional Neural Network and Artificial Neural Network to compare the classification results using different metrics.
